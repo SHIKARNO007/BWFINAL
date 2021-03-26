@@ -1,0 +1,175 @@
+body {
+  background-color: #3b3636;
+  color: white;
+}
+
+.title {
+  transform: translate(0px, 120%);
+  opacity: 0;
+  transition: all 0.8s ease 0s;
+}
+
+.title_active {
+  transform: translate(0px, 0px);
+  opacity: 1;
+}
+
+.prozrach {
+  background-color: rgba(128, 128, 128, 0.5);
+  width: 1265px;
+  height: 215px;
+  margin-left: 112px;
+  margin-top: -210px;
+}
+
+.verh {
+  background-color: #f0d032;
+  height: 100px;
+}
+
+.guide {
+  margin-top: -80px;
+  text-align: center;
+  text-decoration: underline;
+  font-family: Arial;
+  color: #033361;
+}
+
+
+.p1 {
+  margin-top: -81px;
+}
+.p2 {
+  margin-left: 1418px;
+  margin-top: -129px;
+}
+
+.bpt {
+  font-size: 1.5rem;
+}
+.BrawlPass {
+  border: solid 5px #033361;
+}
+
+.leftcol {
+  background-color: #294691;
+  border: solid 5px;
+  border-top-color: #fff717;
+  border-left-color: #fff717;
+  border-bottom-color: #fff717;
+  border-right-color: #294691;
+}
+
+.rightcol {
+  background-color:  #294691;
+  border: solid 5px;
+  border-top-color: #fff717;
+  border-right-color: #fff717;
+  border-bottom-color: #fff717;
+  border-left-color: #294691;
+}
+
+.BW {
+  text-align: center;
+}
+
+.fa-star-of-david {
+  color:  #fff717;
+}
+
+.text1 {
+  font-size: 1.5rem;
+  text-align: center;
+
+}
+.hr1 {
+  height: 2px;
+  background-color: #fff717;
+}
+
+.GameMods {
+  font-family: Arial;
+  border: solid 5px #fff717;
+}
+
+.text {
+  font-size: 1.5rem;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.ModePhotos {
+  border: solid 5px #fff717;
+}
+
+.BrawlPass {
+  font-family: Arial;
+  background-color: #fff717;
+}
+
+.textBP {
+  font-size: 1.2rem;
+  color: #033361;
+}
+
+.Count {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.Download {
+  border: solid 5px #033361;
+  background-color:  #fff717;
+  margin-left: 550px;
+}
+
+.Osobennosti {
+  border: solid 5px #fff717;
+  font-size: 1.5rem;
+  margin-left: 16px;
+  margin-top: 30px;
+}
+
+.photo {
+  border: solid 5px #fff717;
+  margin-right: 55px;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+.btn {
+  margin-top: 5px;
+  background-color: #fff717;
+  color: black;
+  font-size: 1.5rem;
+  border: 1px solid #033361;
+  border-radius: 45%;
+  background-color: white;
+}
+
+.footer {
+  background-color:  #f0d032;
+  text-align: center;
+  text-decoration: underline;
+  font-family: Arial;
+  color: #033361;
+  margin-top: 100px;
+  width: 1550px;
+}
+
+.p3 {
+  margin-top: -104px;
+  margin-bottom: 50px;
+}
+
+.p4 {
+  margin-left: 1420px;
+  margin-top: -155px;
+}
+
+.data {
+  margin-top: -330px;
+  margin-left: 1100px;
+}
